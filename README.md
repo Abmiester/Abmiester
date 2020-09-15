@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently doing applied machine learning oriented research and development at a young startup working on solving marketplace problems. Read more about the platforms we're building [here](https://medium.com/gridwise-analytics) and [here](https://gridwise.io/features).
+- ⚡ In graduate school, I was in a research group that studied and developed robust predictive modeling techniques for financial markets. To get an overview of the work, I recommend reading the published paper [here](https://www.sciencedirect.com/science/article/abs/pii/S0957417417301331?via%3Dihub).
+
+
 <!--
 **Abmiester/Abmiester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
