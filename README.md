@@ -5,7 +5,4 @@
 - :zap: In graduate school, my research group and I studied and developed robust predictive modeling and applied machine learning techniques for financial markets. To get an overview of the work, I recommend reading the published paper [here](https://www.sciencedirect.com/science/article/abs/pii/S0957417417301331?via%3Dihub).
 - :robot: In college, I competed in robotics events and a racecar design and development competition, and dabbled in design, testing, and fabrication of circuit boards. My undergraduate thesis was on pattern acknowledgement and communication between robots.
 
-### Connect with me
-<a href=”https://www.linkedin.com/in/abmiester/"><img align=”left” src=”http://cdn.jsdelivr.net/gh/Abmiester/Abmiester/master/images/linkedin.svg" alt=”Abraar Ahmed | LinkedIn” width=”21px”/></a>
-
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Abmiester.Abmiester)](https://github.com/Abmiester)
